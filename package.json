@@ -1,0 +1,9 @@
+{
+	"name":"Simple-Node",
+	"author":"Adam Crider <accrider@ualr.edu>",
+	"main":"app.js",
+	"dependencies": {
+		"express":"",
+		"redis":""
+	}
+}
